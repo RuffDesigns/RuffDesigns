@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RuffDesigns
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ...python,c++,c#,javascript,java,php, and sql
-- 💞️ I’m looking to collaborate on ...anything and everything
+- 👀 I’m interested in ... Building my company
+- 💞️ I’m looking to collaborate on ...Paid Projects
 - 📫 How to reach me ...ruffdesigns2022@gmail.com
 
 <!---
